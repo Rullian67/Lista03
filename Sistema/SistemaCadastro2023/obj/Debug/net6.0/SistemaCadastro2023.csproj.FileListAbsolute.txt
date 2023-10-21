@@ -1,0 +1,14 @@
+C:\Users\rulli\OneDrive\Documentos\Lista3\SistemaCadastro2023\bin\Debug\net6.0\SistemaCadastro2023.exe
+C:\Users\rulli\OneDrive\Documentos\Lista3\SistemaCadastro2023\bin\Debug\net6.0\SistemaCadastro2023.deps.json
+C:\Users\rulli\OneDrive\Documentos\Lista3\SistemaCadastro2023\bin\Debug\net6.0\SistemaCadastro2023.runtimeconfig.json
+C:\Users\rulli\OneDrive\Documentos\Lista3\SistemaCadastro2023\bin\Debug\net6.0\SistemaCadastro2023.dll
+C:\Users\rulli\OneDrive\Documentos\Lista3\SistemaCadastro2023\bin\Debug\net6.0\SistemaCadastro2023.pdb
+C:\Users\rulli\OneDrive\Documentos\Lista3\SistemaCadastro2023\obj\Debug\net6.0\SistemaCadastro2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rulli\OneDrive\Documentos\Lista3\SistemaCadastro2023\obj\Debug\net6.0\SistemaCadastro2023.AssemblyInfoInputs.cache
+C:\Users\rulli\OneDrive\Documentos\Lista3\SistemaCadastro2023\obj\Debug\net6.0\SistemaCadastro2023.AssemblyInfo.cs
+C:\Users\rulli\OneDrive\Documentos\Lista3\SistemaCadastro2023\obj\Debug\net6.0\SistemaCadastro2023.csproj.CoreCompileInputs.cache
+C:\Users\rulli\OneDrive\Documentos\Lista3\SistemaCadastro2023\obj\Debug\net6.0\SistemaCadastro2023.dll
+C:\Users\rulli\OneDrive\Documentos\Lista3\SistemaCadastro2023\obj\Debug\net6.0\refint\SistemaCadastro2023.dll
+C:\Users\rulli\OneDrive\Documentos\Lista3\SistemaCadastro2023\obj\Debug\net6.0\SistemaCadastro2023.pdb
+C:\Users\rulli\OneDrive\Documentos\Lista3\SistemaCadastro2023\obj\Debug\net6.0\SistemaCadastro2023.genruntimeconfig.cache
+C:\Users\rulli\OneDrive\Documentos\Lista3\SistemaCadastro2023\obj\Debug\net6.0\ref\SistemaCadastro2023.dll
