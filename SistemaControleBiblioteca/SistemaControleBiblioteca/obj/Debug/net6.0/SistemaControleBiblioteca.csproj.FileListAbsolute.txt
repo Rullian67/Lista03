@@ -1,0 +1,14 @@
+C:\Users\rulli\OneDrive\Documentos\Visual.studio\SistemaControleBiblioteca\SistemaControleBiblioteca\obj\Debug\net6.0\SistemaControleBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rulli\OneDrive\Documentos\Visual.studio\SistemaControleBiblioteca\SistemaControleBiblioteca\obj\Debug\net6.0\SistemaControleBiblioteca.AssemblyInfoInputs.cache
+C:\Users\rulli\OneDrive\Documentos\Visual.studio\SistemaControleBiblioteca\SistemaControleBiblioteca\obj\Debug\net6.0\SistemaControleBiblioteca.AssemblyInfo.cs
+C:\Users\rulli\OneDrive\Documentos\Visual.studio\SistemaControleBiblioteca\SistemaControleBiblioteca\obj\Debug\net6.0\SistemaControleBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\rulli\OneDrive\Documentos\Visual.studio\SistemaControleBiblioteca\SistemaControleBiblioteca\bin\Debug\net6.0\SistemaControleBiblioteca.exe
+C:\Users\rulli\OneDrive\Documentos\Visual.studio\SistemaControleBiblioteca\SistemaControleBiblioteca\bin\Debug\net6.0\SistemaControleBiblioteca.deps.json
+C:\Users\rulli\OneDrive\Documentos\Visual.studio\SistemaControleBiblioteca\SistemaControleBiblioteca\bin\Debug\net6.0\SistemaControleBiblioteca.runtimeconfig.json
+C:\Users\rulli\OneDrive\Documentos\Visual.studio\SistemaControleBiblioteca\SistemaControleBiblioteca\bin\Debug\net6.0\SistemaControleBiblioteca.dll
+C:\Users\rulli\OneDrive\Documentos\Visual.studio\SistemaControleBiblioteca\SistemaControleBiblioteca\bin\Debug\net6.0\SistemaControleBiblioteca.pdb
+C:\Users\rulli\OneDrive\Documentos\Visual.studio\SistemaControleBiblioteca\SistemaControleBiblioteca\obj\Debug\net6.0\SistemaControleBiblioteca.dll
+C:\Users\rulli\OneDrive\Documentos\Visual.studio\SistemaControleBiblioteca\SistemaControleBiblioteca\obj\Debug\net6.0\refint\SistemaControleBiblioteca.dll
+C:\Users\rulli\OneDrive\Documentos\Visual.studio\SistemaControleBiblioteca\SistemaControleBiblioteca\obj\Debug\net6.0\SistemaControleBiblioteca.pdb
+C:\Users\rulli\OneDrive\Documentos\Visual.studio\SistemaControleBiblioteca\SistemaControleBiblioteca\obj\Debug\net6.0\SistemaControleBiblioteca.genruntimeconfig.cache
+C:\Users\rulli\OneDrive\Documentos\Visual.studio\SistemaControleBiblioteca\SistemaControleBiblioteca\obj\Debug\net6.0\ref\SistemaControleBiblioteca.dll

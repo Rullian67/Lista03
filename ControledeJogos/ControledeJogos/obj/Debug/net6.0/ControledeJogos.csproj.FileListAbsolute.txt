@@ -1,0 +1,14 @@
+C:\Users\rulli\OneDrive\Documentos\Visual.studio\ControledeJogos\ControledeJogos\bin\Debug\net6.0\ControledeJogos.exe
+C:\Users\rulli\OneDrive\Documentos\Visual.studio\ControledeJogos\ControledeJogos\bin\Debug\net6.0\ControledeJogos.deps.json
+C:\Users\rulli\OneDrive\Documentos\Visual.studio\ControledeJogos\ControledeJogos\bin\Debug\net6.0\ControledeJogos.runtimeconfig.json
+C:\Users\rulli\OneDrive\Documentos\Visual.studio\ControledeJogos\ControledeJogos\bin\Debug\net6.0\ControledeJogos.dll
+C:\Users\rulli\OneDrive\Documentos\Visual.studio\ControledeJogos\ControledeJogos\bin\Debug\net6.0\ControledeJogos.pdb
+C:\Users\rulli\OneDrive\Documentos\Visual.studio\ControledeJogos\ControledeJogos\obj\Debug\net6.0\ControledeJogos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rulli\OneDrive\Documentos\Visual.studio\ControledeJogos\ControledeJogos\obj\Debug\net6.0\ControledeJogos.AssemblyInfoInputs.cache
+C:\Users\rulli\OneDrive\Documentos\Visual.studio\ControledeJogos\ControledeJogos\obj\Debug\net6.0\ControledeJogos.AssemblyInfo.cs
+C:\Users\rulli\OneDrive\Documentos\Visual.studio\ControledeJogos\ControledeJogos\obj\Debug\net6.0\ControledeJogos.csproj.CoreCompileInputs.cache
+C:\Users\rulli\OneDrive\Documentos\Visual.studio\ControledeJogos\ControledeJogos\obj\Debug\net6.0\ControledeJogos.dll
+C:\Users\rulli\OneDrive\Documentos\Visual.studio\ControledeJogos\ControledeJogos\obj\Debug\net6.0\refint\ControledeJogos.dll
+C:\Users\rulli\OneDrive\Documentos\Visual.studio\ControledeJogos\ControledeJogos\obj\Debug\net6.0\ControledeJogos.pdb
+C:\Users\rulli\OneDrive\Documentos\Visual.studio\ControledeJogos\ControledeJogos\obj\Debug\net6.0\ControledeJogos.genruntimeconfig.cache
+C:\Users\rulli\OneDrive\Documentos\Visual.studio\ControledeJogos\ControledeJogos\obj\Debug\net6.0\ref\ControledeJogos.dll

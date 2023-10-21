@@ -1,0 +1,14 @@
+C:\Users\rulli\OneDrive\Documentos\Visual.studio\ControleFazendaDeGados\ControleFazendaDeGados\bin\Debug\net6.0\ControleFazendaDeGados.exe
+C:\Users\rulli\OneDrive\Documentos\Visual.studio\ControleFazendaDeGados\ControleFazendaDeGados\bin\Debug\net6.0\ControleFazendaDeGados.deps.json
+C:\Users\rulli\OneDrive\Documentos\Visual.studio\ControleFazendaDeGados\ControleFazendaDeGados\bin\Debug\net6.0\ControleFazendaDeGados.runtimeconfig.json
+C:\Users\rulli\OneDrive\Documentos\Visual.studio\ControleFazendaDeGados\ControleFazendaDeGados\bin\Debug\net6.0\ControleFazendaDeGados.dll
+C:\Users\rulli\OneDrive\Documentos\Visual.studio\ControleFazendaDeGados\ControleFazendaDeGados\bin\Debug\net6.0\ControleFazendaDeGados.pdb
+C:\Users\rulli\OneDrive\Documentos\Visual.studio\ControleFazendaDeGados\ControleFazendaDeGados\obj\Debug\net6.0\ControleFazendaDeGados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rulli\OneDrive\Documentos\Visual.studio\ControleFazendaDeGados\ControleFazendaDeGados\obj\Debug\net6.0\ControleFazendaDeGados.AssemblyInfoInputs.cache
+C:\Users\rulli\OneDrive\Documentos\Visual.studio\ControleFazendaDeGados\ControleFazendaDeGados\obj\Debug\net6.0\ControleFazendaDeGados.AssemblyInfo.cs
+C:\Users\rulli\OneDrive\Documentos\Visual.studio\ControleFazendaDeGados\ControleFazendaDeGados\obj\Debug\net6.0\ControleFazendaDeGados.csproj.CoreCompileInputs.cache
+C:\Users\rulli\OneDrive\Documentos\Visual.studio\ControleFazendaDeGados\ControleFazendaDeGados\obj\Debug\net6.0\ControleFazendaDeGados.dll
+C:\Users\rulli\OneDrive\Documentos\Visual.studio\ControleFazendaDeGados\ControleFazendaDeGados\obj\Debug\net6.0\refint\ControleFazendaDeGados.dll
+C:\Users\rulli\OneDrive\Documentos\Visual.studio\ControleFazendaDeGados\ControleFazendaDeGados\obj\Debug\net6.0\ControleFazendaDeGados.pdb
+C:\Users\rulli\OneDrive\Documentos\Visual.studio\ControleFazendaDeGados\ControleFazendaDeGados\obj\Debug\net6.0\ControleFazendaDeGados.genruntimeconfig.cache
+C:\Users\rulli\OneDrive\Documentos\Visual.studio\ControleFazendaDeGados\ControleFazendaDeGados\obj\Debug\net6.0\ref\ControleFazendaDeGados.dll
