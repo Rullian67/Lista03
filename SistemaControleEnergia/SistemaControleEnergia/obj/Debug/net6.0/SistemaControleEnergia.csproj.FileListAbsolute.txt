@@ -1,0 +1,14 @@
+C:\Users\rulli\Source\Repos\SistemaControleEnergia\SistemaControleEnergia\bin\Debug\net6.0\SistemaControleEnergia.exe
+C:\Users\rulli\Source\Repos\SistemaControleEnergia\SistemaControleEnergia\bin\Debug\net6.0\SistemaControleEnergia.deps.json
+C:\Users\rulli\Source\Repos\SistemaControleEnergia\SistemaControleEnergia\bin\Debug\net6.0\SistemaControleEnergia.runtimeconfig.json
+C:\Users\rulli\Source\Repos\SistemaControleEnergia\SistemaControleEnergia\bin\Debug\net6.0\SistemaControleEnergia.dll
+C:\Users\rulli\Source\Repos\SistemaControleEnergia\SistemaControleEnergia\bin\Debug\net6.0\SistemaControleEnergia.pdb
+C:\Users\rulli\Source\Repos\SistemaControleEnergia\SistemaControleEnergia\obj\Debug\net6.0\SistemaControleEnergia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rulli\Source\Repos\SistemaControleEnergia\SistemaControleEnergia\obj\Debug\net6.0\SistemaControleEnergia.AssemblyInfoInputs.cache
+C:\Users\rulli\Source\Repos\SistemaControleEnergia\SistemaControleEnergia\obj\Debug\net6.0\SistemaControleEnergia.AssemblyInfo.cs
+C:\Users\rulli\Source\Repos\SistemaControleEnergia\SistemaControleEnergia\obj\Debug\net6.0\SistemaControleEnergia.csproj.CoreCompileInputs.cache
+C:\Users\rulli\Source\Repos\SistemaControleEnergia\SistemaControleEnergia\obj\Debug\net6.0\SistemaControleEnergia.dll
+C:\Users\rulli\Source\Repos\SistemaControleEnergia\SistemaControleEnergia\obj\Debug\net6.0\refint\SistemaControleEnergia.dll
+C:\Users\rulli\Source\Repos\SistemaControleEnergia\SistemaControleEnergia\obj\Debug\net6.0\SistemaControleEnergia.pdb
+C:\Users\rulli\Source\Repos\SistemaControleEnergia\SistemaControleEnergia\obj\Debug\net6.0\SistemaControleEnergia.genruntimeconfig.cache
+C:\Users\rulli\Source\Repos\SistemaControleEnergia\SistemaControleEnergia\obj\Debug\net6.0\ref\SistemaControleEnergia.dll

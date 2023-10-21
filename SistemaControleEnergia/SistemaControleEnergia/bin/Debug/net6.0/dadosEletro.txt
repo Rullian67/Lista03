@@ -1,0 +1,2 @@
+Geladeira;443;33
+forno;3354;33
