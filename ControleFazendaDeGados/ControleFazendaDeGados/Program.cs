@@ -103,7 +103,7 @@ static void PreencherCampoAbate(List<Gados> lista)
             }
         }
     }
-    /*static void carregarDados(List<Gados> lista, string nomeArquivo)
+    static void carregarDados(List<Gados> lista, string nomeArquivo)
     {
         if (File.Exists(nomeArquivo))
         {
@@ -131,7 +131,7 @@ static void PreencherCampoAbate(List<Gados> lista)
         {
             Console.WriteLine("Arquivo não encontrado :(");
         }
-    }*/
+    }
 
 
 
@@ -153,7 +153,7 @@ static void PreencherCampoAbate(List<Gados> lista)
         {
             List<Gados> vetorGados = new List<Gados>();
             List<Nascimento> vetorNascimento = new List<Nascimento>();
-            //carregarDados(vetorGados, "dadosGados.txt");
+            carregarDados(vetorGados, "dadosGados.txt");
             int op = 0;
             do
             {
