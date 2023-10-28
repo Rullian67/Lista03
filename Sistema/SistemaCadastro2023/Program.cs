@@ -53,6 +53,24 @@ class Program
         }// fim for
     }// fim lista
      //----------------------------
+
+    static void buscarGenero(List<TipoBanda> lista, string genero)
+{
+    int qtd = lista.Count();
+    for (int i = 0; i < qtd; i++)
+    {
+        if (lista[i].genero.ToUpper().Contains(genero.ToUpper()))
+        {
+            Console.WriteLine("\t*** Dados da banda ***");
+            Console.WriteLine("Nome:" + lista[i].nome);
+            Console.WriteLine("Genero:" + lista[i].genero);
+            Console.WriteLine("Integrantes:" + lista[i].integrantes);
+            Console.WriteLine("Ranking:" + lista[i].ranking);
+            // break;
+        }// fim 
+
+    }// fim for
+}// fim funcao
     static void buscarNome(List<TipoBanda> lista, string nomeBusca)
     {
         int qtd = lista.Count();
@@ -210,6 +228,10 @@ class Program
                        string nomeBusca = Console.ReadLine();
                        buscarNome(listadeBandas, nomeBusca);
                     break;
+                case 5: Console.Write("Genero para busca:");
+                        string genero = Console.ReadLine();
+                        buscarGenero(listadeBandas,genero);
+                     break;
                 case 6:
                     Console.Write("Nome da banda para alterar:");
                     nomeBusca = Console.ReadLine();
