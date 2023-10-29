@@ -1,4 +1,4 @@
-﻿
+
 using System;
 using System.Collections.Generic;
 using System.Runtime.Intrinsics.X86;
@@ -20,10 +20,9 @@ class Program
         public int ano;
     }
 
-    static void addGados(List<Gados> lista, List<Nascimento> lista2)
+    static void addGados(List<Gados> lista)
     {
         Gados gadocadastrado = new Gados();
-        Nascimento gadocadastrados = new Nascimento();
         Console.Write("Código do gado: ");
         gadocadastrado.codigo = Convert.ToInt32(Console.ReadLine());
         Console.Write("Quantidade de leite produzida por semana: ");
@@ -31,9 +30,9 @@ class Program
         Console.Write("Quantidade de alimentos consumida por semana em kg: ");
         gadocadastrado.alim = Convert.ToDouble(Console.ReadLine());
         Console.Write("Mês de nascimento: ");
-        gadocadastrados.mes = Convert.ToInt32(Console.ReadLine());
+        gadocadastrado.nascimento.mes = Convert.ToInt32(Console.ReadLine());
         Console.Write("Ano de nascimento: ");
-        gadocadastrados.ano = Convert.ToInt32(Console.ReadLine());
+        gadocadastrado.nascimento.ano = Convert.ToInt32(Console.ReadLine());
         gadocadastrado.abate = 'N';
         lista.Add(gadocadastrado);
         Console.WriteLine("Gado cadastrado com sucesso!");
@@ -66,13 +65,13 @@ class Program
         {
             foreach (var gado in lista)
             {
-                writer.WriteLine($"{gado.codigo};{gado.leite};{gado.alim};{gado.nascimento};{gado.abate}");
+                writer.WriteLine($"{gado.codigo};{gado.leite};{gado.alim};{gado.nascimento.mes};{gado.nascimento.ano};{gado.abate}");
             }
         }
         Console.WriteLine("Dados salvos com sucesso!");
     }
 
-static void PreencherCampoAbate(List<Gados> lista)
+    static void PreencherCampoAbate(List<Gados> lista)
     {
         for (int i = 0; i < lista.Count; i++)
         {
@@ -99,10 +98,11 @@ static void PreencherCampoAbate(List<Gados> lista)
         {
             if (gado.abate == 'S')
             {
-                Console.WriteLine($"Código: {gado.codigo}, Idade: {DateTime.Now.Year - gado.nascimento.ano}, Produção de Leite: {gado.leite} litros por semana");
+                Console.WriteLine($"Código: {gado.codigo}, Idade: {DateTime.Now.Year -gado.nascimento.ano}, Produção de Leite: {gado.leite} litros por semana");
             }
         }
     }
+
     static void carregarDados(List<Gados> lista, string nomeArquivo)
     {
         if (File.Exists(nomeArquivo))
@@ -118,10 +118,10 @@ static void PreencherCampoAbate(List<Gados> lista)
                     alim = double.Parse(campos[2]),
                     nascimento = new Nascimento
                     {
-                        mes = int.Parse(campos[3].Split(';')[0]),
-                        ano = int.Parse(campos[3].Split(';')[1])
+                        mes = int.Parse(campos[3]),
+                        ano = int.Parse(campos[4])
                     },
-                    abate = char.Parse(campos[4])
+                    abate = char.Parse(campos[5])
                 };
                 lista.Add(gado);
             }
@@ -132,7 +132,6 @@ static void PreencherCampoAbate(List<Gados> lista)
             Console.WriteLine("Arquivo não encontrado :(");
         }
     }
-
 
 
     static int menu()
@@ -153,7 +152,7 @@ static void PreencherCampoAbate(List<Gados> lista)
         {
             List<Gados> vetorGados = new List<Gados>();
             List<Nascimento> vetorNascimento = new List<Nascimento>();
-            carregarDados(vetorGados, "dadosGados.txt");
+            // carregarDados(vetorGados, "dadosGados.txt");
             int op = 0;
             do
             {
@@ -161,7 +160,7 @@ static void PreencherCampoAbate(List<Gados> lista)
                 switch (op)
                 {
                     case 1:
-                        addGados(vetorGados, vetorNascimento);
+                        addGados(vetorGados);
                         break;
                     case 2:
                     PreencherCampoAbate(vetorGados);
